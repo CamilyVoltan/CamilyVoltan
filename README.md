@@ -1,16 +1,23 @@
-## Hi there 👋
+# Camily Voltan 👋
 
-<!--
-**CamilyVoltan/CamilyVoltan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science | Machine Learning & Analytics**
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camily-aprigio-70820a236/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Sobre Mim
+Graduanda em Ciência de Dados, com foco em desenvolvimento de modelos de Machine Learning, Processamento de Linguagem Natural (NLP) e Visão Computacional. Apaixonada por transformar dados em soluções práticas e automações inteligentes.
+
+---
+
+### 🚀 Principais Interesses & Tecnologias
+* **Linguagens & Dados:** Python, SQL, R
+* **Áreas de Estudo:** Modelagem Preditiva, NLP, Visão Computacional, Análise de Dados
+* **Ferramentas:** Git, bibliotecas para Data Science (Pandas, Scikit-Learn, PyTorch, MediaPipe)
+
+---
+
+### 🎓 Formação & Experiência
+* **Graduação em Ciência de Dados** — FATEC
+* **Mobilidade Acadêmica Internacional** — Instituto Politécnico de Bragança (Portugal)
