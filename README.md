@@ -1,4 +1,4 @@
-# Camily Voltan 👋
+# Camily Voltan Aprigio👋
 
 **Data Science | Machine Learning & Analytics**
 
@@ -6,18 +6,18 @@
 
 ---
 
-### 📌 Sobre Mim
-Graduanda em Ciência de Dados, com foco em desenvolvimento de modelos de Machine Learning, Processamento de Linguagem Natural (NLP) e Visão Computacional. Apaixonada por transformar dados em soluções práticas e automações inteligentes.
+### 📌 About Me
+Data Science undergraduate student focused on developing Machine Learning models, Natural Language Processing (NLP), and Computer Vision. Passionate about transforming data into practical solutions and intelligent automation.
 
 ---
 
-### 🚀 Principais Interesses & Tecnologias
-* **Linguagens & Dados:** Python, SQL, R
-* **Áreas de Estudo:** Modelagem Preditiva, NLP, Visão Computacional, Análise de Dados
-* **Ferramentas:** Git, bibliotecas para Data Science (Pandas, Scikit-Learn, PyTorch, MediaPipe)
+### 🚀 Key Interests & Technologies
+* **Languages ​​& Data:** Python, SQL, R
+* **Areas of Study:** Predictive Modeling, NLP, Computer Vision, Data Analysis
+* **Tools:** Git, Data Science libraries (Pandas, Scikit-Learn, PyTorch, MediaPipe)
 
 ---
 
-### 🎓 Formação & Experiência
-* **Graduação em Ciência de Dados** — FATEC
-* **Mobilidade Acadêmica Internacional** — Instituto Politécnico de Bragança (Portugal)
+### 🎓 Education & Experience
+* **B.Sc. in Data Science** — FATEC
+* **International Academic Exchange** — Polytechnic Institute of Bragança (Portugal)
