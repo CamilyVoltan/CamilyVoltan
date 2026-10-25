@@ -2,7 +2,7 @@
 
 **Ciência de Dados | Aprendizado de Máquina (Machine Learning) e Analytics**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/camily-voltan)
+[LinkedIn](https://www.linkedin.com/in/camily-voltan)
 
 ---
 
