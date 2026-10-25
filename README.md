@@ -1,23 +1,25 @@
 # Camily Voltan Aprigio👋
 
-**Data Science | Machine Learning & Analytics**
+**Ciência de Dados | Aprendizado de Máquina (Machine Learning) e Analytics**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camily-aprigio-70820a236/)
-
----
-
-### 📌 About Me
-Data Science undergraduate student focused on developing Machine Learning models, Natural Language Processing (NLP), and Computer Vision. Passionate about transforming data into practical solutions and intelligent automation.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/camily-voltan)
 
 ---
 
-### 🚀 Key Interests & Technologies
-* **Languages ​​& Data:** Python, SQL, R
-* **Areas of Study:** Predictive Modeling, NLP, Computer Vision, Data Analysis
-* **Tools:** Git, Data Science libraries (Pandas, Scikit-Learn, PyTorch, MediaPipe)
+### 📌 Sobre mim
+Estudante de graduação em Ciência de Dados, com foco no desenvolvimento de modelos de Aprendizado de Máquina (Machine Learning), Processamento de Linguagem Natural (PLN) e Visão Computacional. Apaixonada por transformar dados em soluções práticas e automação inteligente.
 
 ---
 
-### 🎓 Education & Experience
-* **B.Sc. in Data Science** — FATEC
-* **International Academic Exchange** — Polytechnic Institute of Bragança (Portugal)
+### 🚀 Principais interesses e tecnologias
+* **Linguagens e Dados:** Python, SQL, R
+* **Áreas de estudo:** Modelagem Preditiva, PLN, Visão Computacional, Análise de Dados
+* **Ferramentas:** Git, bibliotecas de Ciência de Dados (Pandas, Scikit-Learn, PyTorch, MediaPipe, OpenCV, Numpy, Matplotlib)
+
+---
+
+### 🎓 Formação e Experiência
+* **Graduação em Ciência de Dados** — FATEC
+* **Intercâmbio Acadêmico Internacional** — Instituto Politécnico de Bragança (Portugal)
+* **Monitoria Acadêmica** - Estatística Indutiva
+* **Iniciação Científica** - Monitoramento e Fenotipagem de Abacateiros por Visão Computacional e Sensoriamento Remoto por VANT
